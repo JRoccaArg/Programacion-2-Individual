@@ -16,7 +16,7 @@ Aquí se documentan y desarrollan las actividades y ejercicios individuales real
 <h2>👤 Autor</h2>
 <p align="center">
   <b>Juan Rocca</b><br><br>
-  <img src="img/Rocca_Foto.jpg" width="120" height="120" style="border-radius:50%;">
+  <img src="img/Rocca_Foto.jpg" width="120" height="120" style="border-radius:50%;"><br><br>
   Estudiante de Ingeniería Informática
 </p>
 
